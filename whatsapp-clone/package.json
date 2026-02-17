@@ -1,0 +1,17 @@
+{
+  "name": "whatsapp-clone",
+  "version": "1.0.0",
+  "description": "Mini WhatsApp Clone - Real-time Chat Application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["chat", "websocket", "real-time", "whatsapp"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  }
+}
